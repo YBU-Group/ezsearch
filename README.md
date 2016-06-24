@@ -1,3 +1,2 @@
 # ezsearch
-Easy to Use Advance Search
-Hosted @ http://ezsear.ch/
+Easy to Use Advance Search web app - Hosted @ http://ezsear.ch/
