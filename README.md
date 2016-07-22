@@ -14,3 +14,15 @@ Bootstrap Theme - http://192.241.236.31/themes/preview/smartadmin/1.8.x/ajax/ind
 Bootstrap Date Range Picker - http://www.daterangepicker.com/
 
 Balsamiq Mockup download - https://balsamiq.com/download/
+
+RESOURCES
+
+YouTube API
+https://developers.google.com/youtube/v3/docs/search/list
+
+Google Advanced Search
+https://www.google.com/advanced_search
+
+Internet Archive Advanced Search
+https://archive.org/advancedsearch.php
+
