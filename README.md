@@ -27,5 +27,5 @@ https://www.google.com/advanced_search
 Internet Archive Advanced Search
 https://archive.org/advancedsearch.php
 
-SmartAdmin UI Components Mockup
+Themed Bootstrap UI Components mockup
 http://192.241.236.31/themes/preview/smartadmin/1.8.x/ajax/index.html#ajax/dashboard.html
