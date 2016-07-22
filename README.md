@@ -20,12 +20,14 @@ RESOURCES
 YouTube API
 https://developers.google.com/youtube/v3/docs/search/list
 
-Google Advanced Search
-https://www.google.com/advanced_search
-
 Google Custom Search API
 https://developers.google.com/custom-search/
+
+Google Advanced Search
+https://www.google.com/advanced_search
 
 Internet Archive Advanced Search
 https://archive.org/advancedsearch.php
 
+SmartAdmin UI Components Mockup
+http://192.241.236.31/themes/preview/smartadmin/1.8.x/ajax/index.html#ajax/dashboard.html
