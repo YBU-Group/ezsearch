@@ -23,6 +23,9 @@ https://developers.google.com/youtube/v3/docs/search/list
 Google Advanced Search
 https://www.google.com/advanced_search
 
+Google Custom Search API
+https://developers.google.com/custom-search/
+
 Internet Archive Advanced Search
 https://archive.org/advancedsearch.php
 
